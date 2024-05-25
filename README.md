@@ -1,3 +1,5 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 # 💫 About Me:
 👋 Hi there! I'm Armin, a Master's student specializing in AI and Robotics @UNIPD. <br><br>🎓 I am currently engaged in pursuing my Master's degree, driven by a profound interest in exploring the dynamic realm of AI. <br><br>🤖 I am particularly passionate about computer vision and am currently working on 3D image reconstruction.<br><br> 🌱 In my free time, I follow and learn about Natural Language Processing (NLP) to further broaden my knowledge and skills in the field.<br><br> 📫 You can reach me via [Email](mailto:karimi77armin@gmail.com) 
 
