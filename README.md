@@ -5,6 +5,14 @@
 👋 Hi there! I'm Armin, a Master's student specializing in AI and Robotics @UNIPD. <br><br>🎓 I am currently engaged in pursuing my Master's degree, driven by a profound interest in exploring the dynamic realm of AI. <br><br>🤖 I am particularly passionate about computer vision and am currently working on 3D image reconstruction.<br><br> 🌱 In my free time, I follow and learn about Natural Language Processing (NLP) to further broaden my knowledge and skills in the field.<br><br> 📫 You can reach me via [Email](mailto:karimi77armin@gmail.com) 
 </dev>
 
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/armin-karimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ArminKarimi" height="30" width="40" /></a>
+<a href="https://instagram.com/armin_a_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armin_a_k" height="30" width="40" /></a>
+</p>
+<br>
+
 
 
 ## Tech Stack:
