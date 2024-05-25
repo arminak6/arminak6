@@ -8,7 +8,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/armin-karimi" target="blank"><img align="center" src="" alt="ArminKArimi" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/armin-karimi" target="blank"><img align="center" src="www.linkedin.com/in/armin-karimi" alt="ArminKArimi" height="30" width="40" /></a>
 
 </p>
 <br>
