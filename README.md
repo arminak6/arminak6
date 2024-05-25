@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/armin-karimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ArminKarimi" height="30" width="40" /></a>
 <a href="https://instagram.com/armin_a_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armin_a_k" height="30" width="40" /></a>
-<a href="https://t.me/armin_a_k" target="blank"><img align="center" src="https://github.com/arminak6/arminak6/blob/main/imgs/telegram.svg" alt="armin_a_k" height="30" width="40" /></a>
+<a href="https://t.me/armin_a_k" target="blank"><img align="center" src="https://github.com/arminak6/arminak6/blob/main/imgs/telegram.svg" alt="armin_a_k" height="30" width="40" /></a><a href="mailto:karimi77armin@gmail.com" target="blank"><img align="center" src="https://github.com/arminak6/arminak6/blob/main/imgs/gmail.svg" alt="armin_a_k" height="30" width="40" /></a>
 </p>
  
 <br>
